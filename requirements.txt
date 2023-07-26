@@ -3,6 +3,7 @@ numpy==1.25.0
 matplotlib==3.7.1
 seaborn==0.12.2
 scikit-learn==1.2.2
+scikit-learn-extra==0.3.0
 plotly==5.15.0
 nbformat==5.9.0
 imbalanced-learn==0.10.1
